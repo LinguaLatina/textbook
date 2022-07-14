@@ -6,18 +6,22 @@ parent: Verbs
 nav_order: 7
 ---
 
-1. TOC
-{:toc}
+---
+layout: page
+title: "Sentence structures"
+parent: "Unit 1: inflection"
+nav_order: 2
+has_children: true
+---
 
-***
 
-# Sentence Structures
+
+## Sentence Structures
 
 Translating Latin sentences becomes much easier if you can recognize certain structural patterns that tell us what to expect in a sentence. Key to identifying what structural pattern a sentence follows is the **main verb**. The type of verb that appears in the sentence tells us what other grammatical items we need to fill out the rest of the sentence.
 
 Below you will find a discussion of several very common sentence structures as well as guidelines for how to distinguish them by looking at the verb.
 
-***
 
 ## Intransitive Sentences
 
@@ -34,9 +38,6 @@ To summarize, intransitive sentences must have a:
 * Subject
 * Intransitive active verb
 
-[Back to top.](#top)
-
-***
 
 ## Transitive Sentences
 
@@ -100,8 +101,6 @@ To summarize, passive sentences must have a:
 And sometimes have an:
 * An ablative of agent
 * Indirect object in the dative
-
-***
 
 ## Linking Sentences
 
