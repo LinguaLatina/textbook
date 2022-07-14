@@ -4,3 +4,4 @@ _site
 composite.md
 docs/Gemfile
 *~
+*.lock
