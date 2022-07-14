@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Vocabulary lists
-nav_order: 2
+nav_order: 14
 has_children: true
 ---
 
