@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Exercises
+title: Practice
 nav_order: 3
 has_children: true
 ---
 
-# Exercises
+# Practice

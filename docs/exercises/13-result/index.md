@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Result Clauses - Exercises
-parent: Exercises
+parent: Practice
 nav_order: 13
 ---
 

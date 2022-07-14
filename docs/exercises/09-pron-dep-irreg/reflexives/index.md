@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Reflexive pronouns
-parent: Exercises
+parent: Practice
 parent: "Pronouns, Deponents, and Irregular Verbs - Exercises"
-grand_parent: Exercises
+grand_parent: Practice
 nav_order: 1
 ---
 

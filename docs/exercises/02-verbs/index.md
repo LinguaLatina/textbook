@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Verbs - Exercises
-parent: Exercises
+parent: Practice
 nav_order: 2
 ---
 

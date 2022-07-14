@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Infinitive forms
-parent: Exercises
+parent: Practice
 parent: "Indirect Statement - Exercises"
-grand_parent: Exercises
+grand_parent: Practice
 nav_order: 1
 ---
 

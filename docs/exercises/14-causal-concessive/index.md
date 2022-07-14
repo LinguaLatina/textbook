@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Causal and Concessive Clauses - Exercises
-parent: Exercises
+parent: Practice
 nav_order: 14
 ---
 

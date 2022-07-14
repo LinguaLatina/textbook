@@ -1,9 +1,9 @@
 ---
 layout: page
 title: "Synopses in the third singular active"
-parent: Exercises
+parent: Practice
 parent: "Temporal Clauses - Exercises"
-grand_parent: Exercises
+grand_parent: Practice
 nav_order: 3
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Indirect Statement - Exercises
-parent: Exercises
+parent: Practice
 nav_order: 6
 has_children: true
 ---

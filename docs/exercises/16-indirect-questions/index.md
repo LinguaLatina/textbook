@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Indirect Questions - Exercises
-parent: Exercises
+parent: Practice
 nav_order: 16
 ---
 

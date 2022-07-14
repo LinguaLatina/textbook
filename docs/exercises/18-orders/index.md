@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Orders - Exercises
-parent: Exercises
+parent: Practice
 nav_order: 18
 ---
 

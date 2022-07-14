@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Adjective and Adverb Degrees - Exercises
-parent: Exercises
+parent: Practice
 nav_order: 20
 ---
 

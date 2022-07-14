@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Identifying temporal clauses
-parent: Exercises
+parent: Practice
 parent: "Temporal Clauses - Exercises"
-grand_parent: Exercises
+grand_parent: Practice
 nav_order: 1
 ---
 

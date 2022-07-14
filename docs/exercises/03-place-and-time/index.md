@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Expressions of Place and Time - Exercises
-parent: Exercises
+parent: Practice
 nav_order: 3
 ---
 

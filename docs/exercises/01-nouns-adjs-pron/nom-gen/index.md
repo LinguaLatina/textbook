@@ -2,7 +2,7 @@
 layout: page
 title: "Nominative and genitive forms"
 parent: "Nouns, Adjectives, and Pronouns - Exercises"
-grand_parent: Exercises
+grand_parent: Practice
 nav_order: 2
 ---
 

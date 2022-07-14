@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Temporal Clauses - Exercises
-parent: Exercises
+parent: Practice
 nav_order: 8
 has_children: true
 ---

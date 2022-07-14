@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Participles - Exercises
-parent: Exercises
+parent: Practice
 nav_order: 10
 ---
 

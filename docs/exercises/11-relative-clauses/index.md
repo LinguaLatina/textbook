@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Relative Clauses - Exercises
-parent: Exercises
+parent: Practice
 nav_order: 11
 ---
 

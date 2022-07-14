@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Optative and Potential - Exercises
-parent: Exercises
+parent: Practice
 nav_order: 17
 ---
 

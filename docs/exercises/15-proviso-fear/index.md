@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Proviso and Fear Clauses - Exercises
-parent: Exercises
+parent: Practice
 nav_order: 15
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Verbal Nouns and Adjectives - Exercises
-parent: Exercises
+parent: Practice
 nav_order: 4
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Questions - Exercises
-parent: Exercises
+parent: Practice
 nav_order: 5
 ---
 

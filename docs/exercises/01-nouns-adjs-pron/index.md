@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Nouns, Adjectives, and Pronouns - Exercises
-parent: Exercises
+parent: Practice
 has_children: true
 nav_order: 1
 ---
