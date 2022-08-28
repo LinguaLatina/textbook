@@ -2,7 +2,7 @@
 layout: page
 title: Pronouns - Paradigms
 parent: Reference
-nav_order: 3
+nav_order: 5
 ---
 
 # Pronouns - Paradigms

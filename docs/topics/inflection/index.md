@@ -9,9 +9,17 @@ has_children: true
 
 ## An inflected language
 
-- word order vs. inflection
-- substantive inflection: number, function
-- verbal inflection: tense
+
+Main points to emphasize:
+
+- English uses *word order* to indicate function; in Latin, *inflection* fulfills that role
+
+
+Examples of inflection in English:
+
+- verbal inflection to show *tense*
+- substantive inflection: *number*
+
 
 
 ### Other resources

@@ -2,7 +2,7 @@
 layout: page
 title: Adjectives - Paradigms
 parent: Reference
-nav_order: 2
+nav_order: 4
 ---
 
 # Adjectives - Paradigms

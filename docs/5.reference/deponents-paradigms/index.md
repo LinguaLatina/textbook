@@ -2,7 +2,7 @@
 layout: page
 title: Deponent Verbs - Paradigms
 parent: Reference
-nav_order: 6
+nav_order: 2
 ---
 
 # Deponent Verbs - Paradigms

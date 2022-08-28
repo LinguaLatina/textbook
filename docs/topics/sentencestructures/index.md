@@ -1,16 +1,8 @@
 ---
 layout: page
-title: Sentence Structures
-grand_parent: Grammatical presentation
-parent: Verbs
-nav_order: 7
----
-
----
-layout: page
 title: "Sentence structures"
 parent: "Unit 1: inflection"
-nav_order: 2
+nav_order: 20
 has_children: true
 ---
 
@@ -29,14 +21,15 @@ Below you will find a discussion of several very common sentence structures as w
 
 Below are some examples of intransitive sentences in Latin and English:
 
-* Puella cucurrit. ("The girl ran.")
-* Timent. ("They are frightened.")
+- Puella cucurrit. ("The girl ran.")
+- Timent. ("They are frightened.")
 
 NB: It might be tempting to think that a sentence like "The girl ran three miles" has a direct object. However, "three miles" is the shortened form of "for three miles", an adverbial phrase that describes the word "ran." We'll learn more about phrases that express concepts of space and time in Module 3.
 
 To summarize, intransitive sentences must have a:
-* Subject
-* Intransitive active verb
+
+- Subject
+- Intransitive active verb
 
 
 ## Transitive Sentences
@@ -67,14 +60,15 @@ Literally, the sentence is "The farmer gave a pizza **to the girl**."
 Head to the [noun paradigm charts](../../../reference/nouns-paradigms) and [adjective paradigm charts](../../../reference/adjectives-paradigms) to familiarize yourself with the **dative** endings in the singular and plural of each declension and adjective grouping.
 
 To summarize, transitive sentences must have a:
-* Subject
-* Active verb
-* Direct object in the accusative
+
+- Subject
+- Active verb
+- Direct object in the accusative
 
 And sometimes have an:
-* Indirect object in the dative
 
-***
+- Indirect object in the dative
+
 
 ## Passive Sentences
 
@@ -118,7 +112,7 @@ To summarize, linking sentences must have a:
 
 [Back to top.](#top)
 
-***
+
 
 ## Tips for Determining Sentence Structure
 

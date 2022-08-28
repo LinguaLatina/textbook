@@ -2,7 +2,7 @@
 layout: page
 title: Verbs - Paradigms
 parent: Reference
-nav_order: 4
+nav_order: 1
 ---
 
 # Regular Verbs - Paradigms

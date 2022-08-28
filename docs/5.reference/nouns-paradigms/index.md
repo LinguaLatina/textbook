@@ -2,7 +2,7 @@
 layout: page
 title: Nouns - Paradigms
 parent: Reference
-nav_order: 1
+nav_order: 3
 ---
 
 # Nouns - Paradigms
