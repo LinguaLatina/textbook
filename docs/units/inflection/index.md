@@ -5,7 +5,7 @@ nav_order: 2
 has_children: true
 ---
 
-# Inflection of Nouns, Pronouns, Adjectives, and Verbs
+# Inflection of verbs, nouns, pronouns, and adjectives
 
  
 In Unit 1, we will look at how inflection works in the Latin language. We begin by with the concept of an inflected language and detailing how Latin’s use of inflection differs from English’ use of it. The key takeaway here will be that while English primarily relies on word order to convey grammatical function, Latin uses word endings to do so.
