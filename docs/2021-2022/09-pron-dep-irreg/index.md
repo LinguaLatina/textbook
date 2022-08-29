@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Pronouns, Deponents, and Irregular Verbs
-parent: Grammatical presentation
+parent: "2021-2022 draft"
 nav_order: 9
 ---
 

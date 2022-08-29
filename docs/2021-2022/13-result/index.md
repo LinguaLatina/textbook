@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Result Clauses
-parent: Grammatical presentation
+parent: "2021-2022 draft"
 nav_order: 13
 ---
 
