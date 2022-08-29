@@ -2,8 +2,8 @@
 layout: page
 title: Pronouns
 nav_order: 3
-parent: Nouns, Adjectives, and Pronouns
-grand_parent: Grammatical presentation
+parent: "Nouns, Adjectives, and Pronouns"
+grand_parent: "2021-2022 draft"
 ---
 
 1. TOC

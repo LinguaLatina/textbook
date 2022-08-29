@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Concessive Clauses
-grand_parent: Grammatical presentation
+grand_parent: "2021-2022 draft"
 parent: Causal and Concessive Clauses
 nav_order: 2
 ---

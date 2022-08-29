@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Participle Tense and Translation
-grand_parent: Grammatical presentation
+grand_parent: "2021-2022 draft"
 parent: Participles
 nav_order: 5
 ---

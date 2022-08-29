@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ablative Absolute
-grand_parent: Grammatical presentation
+grand_parent: "2021-2022 draft"
 parent: Participles
 nav_order: 6
 ---

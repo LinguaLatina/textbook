@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Comparative Adjectives
-grand_parent: Grammatical presentation
+grand_parent: "2021-2022 draft"
 parent: Adjective and Adverb Degrees
 nav_order: 2
 ---
