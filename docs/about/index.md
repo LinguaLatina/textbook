@@ -11,5 +11,5 @@ The current on-line version of this textbook is simultaneously being drafted and
 
 Units presenting basic features of the Latin language are intended to take about 4 weeks of a college course.  
 
-
+The draft of this material that was used in 2021-2022 is included at [https://lingualatina.github.io/textbook/2021-2022/](https://lingualatina.github.io/textbook/2021-2022/).
 
