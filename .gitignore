@@ -1,5 +1,7 @@
 _site
 .jekyll-cache
 .sass-cache
-_config_local.yml
 composite.md
+docs/Gemfile
+*~
+*.lock
