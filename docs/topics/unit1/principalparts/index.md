@@ -44,7 +44,7 @@ Principal parts are listed in order, 1-4. Memorize these the principal parts of 
 
 - amō, amāre, amāvī, amātus - to love
 - audiō, audīre, audīvī, audītus - to hear
-- capiō, capĕ, cēpī, captus - to take, seize
+- capiō, capĕre, cēpī, captus - to take, seize
 - dō, dāre, dedī, datus - to give
 - dūcō, dūcĕre, dūxī, ductus - to lead
 - faciō, facĕre, fēcī, factus - to make, do

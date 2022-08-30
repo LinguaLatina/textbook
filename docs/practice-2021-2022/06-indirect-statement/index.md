@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Indirect Statement - Exercises
-parent: Practice
+parent: "Practice (2021-2022)"
 nav_order: 6
 has_children: true
 ---

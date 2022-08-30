@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Practice
-nav_order: 13
+title: "Practice (2021-2022)"
+nav_order: 20
 has_children: true
 ---
 
-# Practice
+# Practice exercises (2021-2022)

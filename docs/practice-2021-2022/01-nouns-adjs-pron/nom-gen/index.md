@@ -2,7 +2,7 @@
 layout: page
 title: "Nominative and genitive forms"
 parent: "Nouns, Adjectives, and Pronouns - Exercises"
-grand_parent: Practice
+grand_parent: "Practice (2021-2022)"
 nav_order: 2
 ---
 
