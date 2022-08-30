@@ -9,7 +9,7 @@ has_children: true
 ## Finite verbs
 
 
-Finite verb forms have five properties: **person**, **number**, **tense**, **mood**, and **voice**. To properly identify a finite verb form, you must identify all five properties. Latin finite verb forms contain all of this information in the verb form itself. In English, we often need other words to convey some of this information, such as subject pronouns to convey the person and number, and auxiliary (or “helping”) verbs to express tense, mood, and voice.
+Finite verb forms have five properties: **person**, **number**, **tense**, **mood**, and **voice**. To properly identify a finite verb form, you must identify all five properties. Latin finite verb forms contain all of this information in the verb form itself. In English, we often need other words to convey some of this information, such as subject pronouns to convey the person and number, and auxiliary (or "helping") verbs to express tense, mood, and voice.
 
 ### Person
 
