@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About this textbook
-nav_order: 1
+nav_order: 0
 has_children: true
 ---
 
