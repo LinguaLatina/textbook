@@ -21,7 +21,7 @@ In English, there are two ways to report what someone says. We can report it **d
 
 How do we differentiate between what someone actually said and a paraphrase of what they said in Latin? The answer is that we change the form that we use for the subject and main verb of the statement. When we replicate what was actually said, we follow the nominative subject and finite verb pattern that we have already met this semester:
 
-- Dixit: “pater amavit filias.”
+- Dixit: "pater amavit filias."
 - He said: "The father loved his daughters."
 
 To indicate that we are paraphrasing what the speaker said, we use the **accusative** to represent the **subject** of the indirect statement and an **infinitive** as the **verbal action** of the indirect statement.
