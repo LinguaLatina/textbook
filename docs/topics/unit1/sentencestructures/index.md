@@ -2,7 +2,7 @@
 layout: page
 title: "Sentence structures"
 parent: "Unit 1: inflection"
-nav_order: 20
+nav_order: 80
 has_children: true
 ---
 
@@ -15,7 +15,7 @@ Translating Latin sentences becomes much easier if you can recognize certain str
 Below you will find a discussion of several very common sentence structures as well as guidelines for how to distinguish them by looking at the verb.
 
 
-## Intransitive Sentences
+### Intransitive Sentences
 
 **Intransitive sentences** feature a subject and an **intransitive verb**. An intransitive verb is a verb that expresses an action or state of being, but does not act directly upon an object: for example, sneezing, dancing, running, raining, etc. As a result, an intransitive verb (and, thus, an intransitive sentence) does not take a direct object (on which, see [Transitive Sentences](#transitive-sentences) below).
 
@@ -32,7 +32,7 @@ To summarize, intransitive sentences must have a:
 - Intransitive active verb
 
 
-## Transitive Sentences
+### Transitive Sentences
 
 **Transitive sentences** require a **direct object**, in addition to a subject and verb, to complete the meaning of the sentence.
 
@@ -70,7 +70,7 @@ And sometimes have an:
 - Indirect object in the dative
 
 
-## Passive Sentences
+### Passive Sentences
 
 **Passive sentences** feature a subject and, unsurprisingly, a **passive** verb. Because the subject of a passive verb is being acted upon, passive sentences do not feature a direct object. Below are some examples of simple passive sentences:
 
@@ -96,7 +96,7 @@ And sometimes have an:
 * An ablative of agent
 * Indirect object in the dative
 
-## Linking Sentences
+### Linking Sentences
 
 **Linking sentences**, which we have already met, require a subject, **linking verb**, and **predicate nominative** which matches the subject in **number** and **case** and, in the case of adjectives as predicate nominatives, **gender**. The most common linking verb in English and Latin is "to be" (*sum*, *esse*, *fui*, *futurus*), though there are other linking verbs we will see throughout the semester. Below are some examples of linking sentences:
 
@@ -106,14 +106,12 @@ And sometimes have an:
 In each of the sentences above, note which nominatives are the subjects (*vir*, *puerī*) and which nominatives are the predicate nominatives (*pater*, *magnī [et] fortēs*).
 
 To summarize, linking sentences must have a:
-* Subject
-* Linking verb
-* Predicate nominative
-
-[Back to top.](#top)
+- Subject
+- Linking verb
+*-Predicate nominative
 
 
 
-## Tips for Determining Sentence Structure
+### Tips for Determining Sentence Structure
 
 The most important thing to do when determining sentence structure is to look at the **main verb**. If the verb is passive, we know that the sentence structure is going to be **passive**; if the verb is a linking verb (i.e. a form of *sum*), then we know the sentence structure is going to be **linking**. It is more difficult to differentiate between transitive and intransitive verbs. While some Latin verbs are used only transitively (verbs like "to carry") and or only intransitively (verbs like "to rain"), a large number of verbs can be used both transitively or intransitively. In these cases, you will want to see if there is a direct object in the accusative case (transitive) or not (intransitive).

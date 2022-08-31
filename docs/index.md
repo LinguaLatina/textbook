@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Lingua Latina: textbook"
-nav_order: -10
+nav_order: 0
 ---
 
 

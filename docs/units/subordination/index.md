@@ -5,6 +5,9 @@ nav_order: 4
 has_children: true
 ---
 
+## Subordination
+
+
 In Units 1 and 2, we learned how verbs and nouns conjugate and decline to create meaning and structure in Latin sentences, as well as how to express ideas like time and place using prepositional phrases. In Unit 3, we will build on this foundation and begin to read more complex sentences.
 
 We will begin this unit with a consideration of subordination in Latin. We will learn about dependent clauses, focusing in particular on temporal clauses. In our discussion of dependent clauses, we will meet the subjunctive mood for the first time and learn how to form its imperfect and pluperfect tense. In doing so, we will begin to discuss what the subjunctive mood signifies in Latin, a conversation that we will continue for much of the next two semesters.
