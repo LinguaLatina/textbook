@@ -3,14 +3,16 @@ Pkg.add("UnifyJustTheDocs")
 using UnifyJustTheDocs
 using Dates
 
-settingsfile = isempty(ARGS) ? "pdf/settings.yaml" : ARGS[1]
-outfile = length(ARGS) > 1 ? ARGS[2] : "composite.md"
+
+root = isempty(ARGS) ?  joinpath(pwd(), "docs") : ARGS[1]
+
+outfile = length(ARGS) > 1 ? ARGS[2]  : "composite.md"
+settingsfile = length(ARGS) > 2 ? ARGS[3] : "pdf/settings.yaml"
 
 settings = readlines(settingsfile) 
 
-root = joinpath(pwd(), "docs")
 
-
+@info("Compositing source files in $root")
 # create YAML header:
 (m,d) = monthday(today())
 yr = year(today())
