@@ -35,7 +35,7 @@ The **tense** of a finite verb describes the time of the action.  Latin has six 
 
 The mood of a verb indicates the function of the expression and the nature of the action in the speaker's conception. "Mood" and "mode" come from the same root in English: the "mood" of a verb is the "mode" in which the verb is operating.
 
-Ancient Greek has four moods: 
+Latin has moods: 
 
 1. the **indicative**, used to express a statement or question of a factual nature (in the eyes of the speaker) in the past, present, or future.
 2. the **imperative**, used to give a command
