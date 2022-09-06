@@ -5,4 +5,4 @@ composite.md
 docs/Gemfile
 *~
 *.lock
-holdouts/
+pdfsource/

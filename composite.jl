@@ -5,10 +5,8 @@ using Dates
 
 
 root = isempty(ARGS) ?  joinpath(pwd(), "docs") : ARGS[1]
-
-outfile = length(ARGS) > 1 ? ARGS[2]  : "composite.md"
-settingsfile = length(ARGS) > 2 ? ARGS[3] : "pdf/settings.yaml"
-
+settingsfile = length(ARGS) > 1 ? ARGS[2]  : "composite.md"
+outfile  = length(ARGS) > 2 ? ARGS[3] : "pdf/settings.yaml"
 settings = readlines(settingsfile) 
 
 
