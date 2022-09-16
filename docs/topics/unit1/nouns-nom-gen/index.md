@@ -11,7 +11,7 @@ has_children: true
 
 Creating noun forms is similar to creating finite verb forms: (1) you find the stem from the dictionary entry, and (2) add the proper ending. For finite verbs, you had to choose the appropriate principal part of the verb to find its stem. For nouns, you use the genitive singular form (the second word in a dictionary entry), and drop the genitive ending. 
 
-s
+
 ###  Endings for the nominative and genitive cases
 
 #### First declension
@@ -124,3 +124,13 @@ Neuter nouns have the same nominative plural ending as second-declension neuters
 | --- | --- | --- |
 | Nominative | caput | caput**a** |
 | Genitive | caput**is** | caput**um** |
+
+Neuter i-stems show the *-i-* in the nominative plural as well as the genitive plural.
+
+
+*mare, maris* n: "sea"
+
+| Case | Singular | Plural |
+| --- | --- | --- |
+| Nominative | mare | mar**ia** |
+| Genitive | mar**is** | mar**ium** |
