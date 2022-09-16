@@ -57,7 +57,7 @@ Let's look at some examples of these endings in phrases expressing the personal 
 
 Antilochus was exposed on a mountain, where he was nourished by a dog
 
-- *Antilochus Nestoris filius  ab cane.*
+- *Antilochus Nestoris filius ab cane.*
 
 *canis, canis* m. or f. is a third-declension noun, so we use the third-declension ending in the ablative form *cane*.
 
@@ -66,4 +66,34 @@ Antilochus was exposed on a mountain, where he was nourished by a dog
 
 First- and second-declension adjectives use the same endings as first- and second-declension nouns in all their cases, including the ablative.
 
-Adjectives with third-declension endings normally use the same endings as third-declension nouns
+Adjectives with third-declension endings normally use the same endings as third-declension i-stems. 
+
+### The ablative of some important pronouns
+
+The ablative case is easy to recognize in the common pronouns *is/ea/id*, *hic/haec/hoc* and *ille/illa/illud* since all three pronouns use the same endings as first and second declension nouns.
+
+
+Ablative forms of *is/ea/id*:
+
+| | Masculine | Feminine | Neuter |
+| --- | --- | --- | --- |
+| singular | eō |	eā |	eō |
+| plural | eīs |	eīs |	eīs |
+
+
+Ablative forms of *hic/haec/hoc*:
+
+| | Masculine | Feminine | Neuter |
+| --- | --- | --- | --- |
+| singular | hōc |	hāc |	hōc |
+| plural | hīs |	hīs |	hīs |
+
+
+
+Ablative forms of *ille/illa/illud*:
+
+| | Masculine | Feminine | Neuter |
+| --- | --- | --- | --- |
+| singular | illō |	illā |	illō |
+| plural | illīs |	illīs |	illīs |
+
