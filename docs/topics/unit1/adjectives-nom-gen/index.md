@@ -74,7 +74,7 @@ The nominative plural of the first-declension noun *insula* is *insulae*; it is 
 
 > *ingent- + es* -> *ingentes insulae*
 
-The nominative plural of the third-declension noun *corpus* is *corpora*; it is *neuter*.  Neuter adjectives have endings similar to *i-stem* nouns.  The ending *-a* for neuter nominative plural will look familiar, but note the *-i-*:
+The nominative plural of the third-declension noun *corpus* is *corpora*; it is *neuter*.  Neuter adjectives have endings similar to *i-stem* nouns.  The adjective ending for neuter nominative plural will therefore be *-ia*, like *maria*, the nominative plural of the neuter i-stem noun *mare, maris*.
 
 > *ingent- + ia* -> *ingentia corpora*
 

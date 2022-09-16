@@ -64,4 +64,6 @@ Antilochus was exposed on a mountain, where he was nourished by a dog
 
 ### Forming the ablative case: adjectives
 
+First- and second-declension adjectives use the same endings as first- and second-declension nouns in all their cases, including the ablative.
 
+Adjectives with third-declension endings normally use the same endings as third-declension nouns

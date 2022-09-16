@@ -124,3 +124,13 @@ Neuter nouns have the same nominative plural ending as second-declension neuters
 | --- | --- | --- |
 | Nominative | caput | caput**a** |
 | Genitive | caput**is** | caput**um** |
+
+Neuter i-stems show the *-i-* in the nominative plural as well as the genitive plural.
+
+
+*mare, maris* n: "sea"
+
+| Case | Singular | Plural |
+| --- | --- | --- |
+| Nominative | mare | mar**ia** |
+| Genitive | mar**is** | mar**ium** |
