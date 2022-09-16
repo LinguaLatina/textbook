@@ -11,7 +11,7 @@ has_children: true
 
 Creating noun forms is similar to creating finite verb forms: (1) you find the stem from the dictionary entry, and (2) add the proper ending. For finite verbs, you had to choose the appropriate principal part of the verb to find its stem. For nouns, you use the genitive singular form (the second word in a dictionary entry), and drop the genitive ending. 
 
-s
+
 ###  Endings for the nominative and genitive cases
 
 #### First declension

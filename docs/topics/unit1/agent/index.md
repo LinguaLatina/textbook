@@ -14,7 +14,7 @@ English can use a phrase with the preposition *by* to add to a passive verb the 
 
 Latin can similarly use the preposition *a* (or *ab* before a vowel) to express personal agent. You know that Latin nouns indicate their function through their case ending.  To indicate that a Latin noun functions with the preposition *a*, Latin uses a case that is new to us, called the **ablative** case.  We'll learn more about prepositions later in this unit, but for now all we need to know is that you use the phrase *a  + [noun in the ablative]* to express the idea "by someone" with a passive verb.  *Apolline* is the ablative form of the god Apollo's name, *Apollo, Apollinis*, m., so when Hyginus tells the story of Amphion, he concludes it *Amphion ab Apolline interfectus est*.
 
-### Forming the ablative case
+### Forming the ablative case: nouns
 
 To form the ablative case of a noun, just add the ablative case endings to the noun's stem, found by droping the genitive singular ending.  *Apollinis* is the genitive singular of the third-declension noun *Apollo*, so we'll add the third-declension ending to the stem *Apollin-*.
 
@@ -60,3 +60,8 @@ Antilochus was exposed on a mountain, where he was nourished by a dog
 - *Antilochus Nestoris filius  ab cane.*
 
 *canis, canis* m. or f. is a third-declension noun, so we use the third-declension ending in the ablative form *cane*.
+
+
+### Forming the ablative case: adjectives
+
+
