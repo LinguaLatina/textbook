@@ -41,7 +41,7 @@ Second declension neuter:
 | Accusative |	-um |	-a |
 
 
-Third declension:
+Third declension masculine or feminine:
 
 | Case | Singular | Plural | 
 | --- | ---  | --- |
@@ -49,7 +49,7 @@ Third declension:
 | Accusative |	-em |	-ēs |
 
 
-Third declension:
+Third declension neuter:
 
 
 | Case | Singular | Plural | 
@@ -76,33 +76,33 @@ You now know all forms of first, second and third declension nouns!  The followi
 
 | Case | Singular | Plural | 
 | --- | ---  | --- |
-Nominative	fili-us	fili-ī
-Genitive	fili-ī	fili-ōrum
-Dative	fili-ō	fili-īs
-Accusative	fili-um	fili-ōs
-Ablative	fili-ō	fili-īs
+| Nominative |	fili-us |	fili-ī |
+| Genitive |	fili-ī |	fili-ōrum |
+| Dative |	fili-ō |	fili-īs |
+| Accusative |	fili-um |	fili-ōs |
+| Ablative |	fili-ō |	fili-īs |
 
 
 ### Second declension neuter
 
 | Case | Singular | Plural | 
 | --- | ---  | --- |
-Nominative	oppid-um	oppid-a
-Genitive	oppid-ī	oppid-ōrum
-Dative	oppid-ō	oppid-īs
-Accusative	oppid-um	oppid-a
-Ablative	oppid-ō	oppid-īs
+| Nominative |	oppid-um |	oppid-a |
+| Genitive |	oppid-ī |	oppid-ōrum |
+| Dative |	oppid-ō |	oppid-īs |
+| Accusative |	oppid-um |	oppid-a |
+| Ablative |	oppid-ō |	oppid-īs |
 
 
 ### Third declension masculine or feminine
 
 | Case | Singular | Plural | 
 | --- | ---  | --- |
-Nominative	māter*	mātr-ēs
-Genitive	mātr-is	mātr-um
-Dative	mātr-ī	mātr-ibus
-Accusative	mātr-em	mātr-ēs
-Ablative	mātr-e	mātr-ibus
+| Nominative |	māter |	mātr-ēs |
+| Genitive |	mātr-is |	mātr-um |
+| Dative |	mātr-ī |	mātr-ibus |
+| Accusative |	mātr-em |	mātr-ēs |
+| Ablative |	mātr-e |	mātr-ibus |
 
 
 i-stem
@@ -111,7 +111,7 @@ i-stem
 | Case | Singular | Plural | 
 | --- | ---  | --- |
 | Nominative |	urbs |	urb-ēs 
-| Genitive |	urb-is	| urb-ium** |
+| Genitive |	urb-is	| urb-ium |
 | Dative |	urb-ī |	urb-ibus |
 | Accusative |	urb-em	| urb-ēs |
 | Ablative | 	urb-e	 | urb-ibus |
@@ -121,21 +121,21 @@ i-stem
 ### Third declension neuter
 
 | Case | Singular | Plural | 
-| -| -- | | ---  | --- |
-| Nominative |	nōmen*	nōmin-a
-| Genitive |	nōmin-is	nōmin-um
-| Dative |	nōmin-ī	nōmin-ibus
-| Accusative |	nōmen**	nōmin-a**
-| Ablative |	nōmin-e	nōmin-ibus
+| ---  | ---  | --- |
+| Nominative |	nōmen |	nōmin-a |
+| Genitive |	nōmin-is	|nōmin-um |
+| Dative |	nōmin-ī	|nōmin-ibus |
+| Accusative |	nōmen	|nōmin-a |
+| Ablative |	nōmin-e	|nōmin-ibus |
 
 
 i-stem
 
 | Case | Singular | Plural | 
 | --- | ---  | --- |
-| Nominative |	mare*	mar-ia***
-| Genitive |	mar-is	mar-ium***
-| Dative |	mar-ī	mar-ibus
-| Accusative |	mare**	mar-ia***
-| Ablative |	mar-ī***	mar-ibus
+| Nominative |	mare	|mar-ia |
+| Genitive |	mar-is|	mar-ium |
+| Dative |	mar-ī|	mar-ibus |
+| Accusative |	mare	|mar-ia |
+| Ablative |	mar-ī	|mar-ibus |
 
