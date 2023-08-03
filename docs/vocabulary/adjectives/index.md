@@ -17,12 +17,12 @@ nav_order: 5
 - magnus, magna, magnum: *great, large*
 - mortalis, mortale: *mortal, subject to death*
 - multus, multa, multum: *much (sg.), many (pl.)*
-- omnis, omnis: *each (sg.), all (pl.)*
+- omnis, omne: *each (sg.), all (pl.)*
 - primus, prima, primum: *first*
 - regius, regia, regium: *royal, kingly*
 - sacer, sacra, sacrum: *holy, sacred*
 - septem (*indeclinable*): *seven*
 - socius, socia, socium: *allied*
-- suus, sua, suum: **reflexive possessive adjective*, his own, her own*
+- suus, sua, suum: **reflexive possessive adjective**, his own, her own
 - tantus, tanta, tantum: *so great*
 - unus, una, unum: *a single*
