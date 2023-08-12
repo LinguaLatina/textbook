@@ -40,7 +40,7 @@ Latin verbs are organized into four **conjugations**, a grouping where they shar
 
 ### Examples of principal parts
 
-Principal parts are listed in order, 1-4. Memorize these the principal parts of these twelve common verbs that you will see repeatedly in reading Hyginus.
+Principal parts are listed in order, 1-4. Memorize these the principal parts of these thirteen common verbs that you will see repeatedly in reading Hyginus.
 
 - amō, amāre, amāvī, amātus - to love
 - audiō, audīre, audīvī, audītus - to hear
@@ -52,6 +52,7 @@ Principal parts are listed in order, 1-4. Memorize these the principal parts of 
 - habeō, habēre, habuī, habitus - to have
 - interficiō, interficĕre, interfēcī, interfectus - to kill
 - mittō, mittĕre, mīsī, missus - to send
+- sum, esse, fuī, futūrus - to be (**irregular**)
 - veniō, venīre, vēnī, ventus - to come
 - videō, vidēre, vīdī, visus - to see; 
 
