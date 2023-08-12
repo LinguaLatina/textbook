@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Prepositions and time expressions"
+title: "Place and Time expressions"
 parent: "Unit 2: richer sentences"
 nav_order: 50
 has_children: true
@@ -8,42 +8,7 @@ has_children: true
 
 
 
-## Prepositions and time expressions
-
-
-
-**Prepositions** are a part of speech, like noun or verb or adjective, in both English and ancient Greek. A preposition is always related to a noun; together, they form a **prepositional phrase**.  Our word comes from Latin *praepositio*, "putting (something) before (something else)" because (as in English) prepositions generally come before the noun they are connected to.
-
-
-A prepositional phrase may act like an adjective to describe another noun. In the sentence "The women on the beach were playing," the phrase *on the beach* describes the women.  Prepositional phrases may also be used like adverbs to describe the active of a verb.  In the sentence, "The women were playing on the beach," the phrase *on the beach* describes where they action was taking place.
-
-
-
-
-The nouns in a prepositional phrase in Latin will be in the accusative or ablative case. We have already learned that noun cases in Latin have particular functions. These functions broadly correspond to which of the cases is used with a particular preposition.  Prepositions using the accusative case often convey an idea of motion or direction, while prepositions using the ablative case are describe static situations or circumstances.  
-
-The preposition *per* for example is always used with the accusative to express the idea of "through, throughout".  Hyginus says that Saturn searched for Jupiter *per terras*, "throughout (many) countries or lands" (*terra, terrae*, f.).
-
-Some prepositions can even be used
-
-per terras
-
-
-Therefore, it is important as you learn prepositions as vocabulary that you also learn which case(s) of noun each takes as its object, and how the case of the object affects the meaning of the preposition. Preposition usage in English is highly idiomatic, and so the practice of translation requires, as always, a good understanding of what the Latin is expressing and how English expresses that same idea, rather than a single equivalence of word to word.
-
-
-
-We saw an example of this in the previous module with the **ablative of agent**. With a passive verb, you can use the preposition *ā/ab* with a word in the ablative case to indicate who performed the action of the verb. For example:
-
-*puer* ***ā puellā*** *amatus est*. The boy was loved **by the girl**.
-
-The prepositional phrase is *ā puellā*, composed of the preposition *ā* and the object of the preposition *puellā*.
-
-Prepositional phrases add more information about the main action of the sentence by answering questions like where, why, which, and how:
-
-* Puellam **in urbe** vīdit. ("She saw the girl in the city.") (**Where** did she see the girl? In the city.)
-* **Ob īgnem** fugiēbat. ("He was fleeing because of the fire.") (**Why** was he fleeing? Because of the fire.)
-* Hercules monstra **sub ponte** necāvit. ("Hercules killed the monsters under the bridge.) (**Which** monsters did Hercules kill? The ones under the bridge. OR **Where** did Hercules kill the monsters? Under the bridge.)
+## Place and time expressions
 
 ***
 
