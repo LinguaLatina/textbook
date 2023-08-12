@@ -17,7 +17,11 @@ has_children: true
 
 In Latin, **prepositions** are indeclinable words followed by a noun in the *ablative* or *accusative* case (called the **object of the preposition**). This unit consisting of preposition and the object of the preposition is what constitutes the **prepositional phrase**.
 
-An example of a prepositional phrase in Latin is the **ablative of agent**. With a passive verb, you can use the preposition *ā/ab* with a word in the ablative case to indicate who performed the action of the verb. For example:
+You can expect that the noun in a prepositional phrase in Latin will be in either the accusative or ablative case. We have already learned that noun cases in Latin have particular functions. These functions broadly correspond to which of the cases is used with a particular preposition.  Prepositions using the accusative case often convey an idea of motion or direction, while prepositions using the ablative case describe static situations or circumstances.  
+
+The preposition *per*, for example, is always used with the accusative to express the idea of "through, throughout".  Hyginus says that Saturn searched for Jupiter *per terras*, "throughout (many) countries or lands" (*terra, terrae*, f.).
+
+Another example of a prepositional phrase in Latin is the **ablative of agent**. With a passive verb, you can use the preposition *ā/ab* with a word in the ablative case to indicate who performed the action of the verb. For example:
 
 *puer* ***ā puellā*** *amatus est*. The boy was loved **by the girl**.
 
