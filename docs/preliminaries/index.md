@@ -34,7 +34,7 @@ Consonants were mostly pronounced as in modern English, with the following notes
 
 ### Vowels
 
-The five vowels a, e, i, o and u have "pure" sounds, without any glide, any  approximately:
+The five vowels a, e, i, o and u have "pure" sounds, without any glide, approximately:
 
 | Vowel | English example of sound | Latin word to practice |
 | --- | --- | --- |
@@ -51,14 +51,14 @@ Two vowels together could be pronounced as a single *diphthong*: these originall
 
 Try pronouncing the following diphthongs in these Latin words, taken from Hyginus *Fabulae*:
 
-| Diphthong | Latin word |
-| --- | --- |
-| ae | *quaero*, "I seek" |
-| au  | *autem*, "however" |
-| ei | *Deianira*, a wife of Hercules  |
-| eu | *Theseus*, an Athenian hero | 
-| oe | *poena*, "penalty, punishment" |
-| ui | *fluit*, "it flows" |
+| Diphthong | Latin word | English example
+| --- | --- | ---
+| ae | *quaero*, "I seek" | *ai* as in *aisle*
+| au  | *autem*, "however" | *ou* as in *house*
+| ei | *Deianira*, a wife of Hercules  | *ei* as in *reign*
+| eu | *Theseus*, an Athenian hero | e + u said quickly in succession
+| oe | *poena*, "penalty, punishment" | *oi* as in *oil*
+| ui | *fluit*, "it flows" | *wi* like in *wick*
 
 
 ### Orthography
