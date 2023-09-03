@@ -24,7 +24,7 @@ Two of the principal parts, the first and third, are finite verbs in a first per
 1. The **first principal part** is the first person singular in the *present* active indicative (or the present passive indicative if active forms do not exist).
 2. The **second principal** is the present *infinitive*.  (We'll begin learning about uses of the infinitive in units 2 and 3.) You'll look at the second principal part to find what set of endings to use with a stem.
 3. The **third principal part** is the first person singular in the *perfect* active indicative.  If the verb has no active forms, it has no third principal part.
-3. The **fourth principal part** is the perfect passive *participle*. A participle has gender, case, and number as well as tense and voice. Latin textbooks and lexicons or dictionaries may follow one of thwo conventions, giving this form in either the *masculine* nominitive singular with the ending **-us** or the *neuter* nominative singular with them ending **-um**. We'll learn in this unit how to use it create perfect passive forms.
+3. The **fourth principal part** is the perfect passive *participle*. A participle has gender, case, and number as well as tense and voice. Latin textbooks and lexicons or dictionaries may follow one of two conventions, giving this form in either the *masculine* nominitive singular with the ending **-us** or the *neuter* nominative singular with them ending **-um**. We'll learn in this unit how to use it create perfect passive forms.
 
 
 ### Verb conjugations
