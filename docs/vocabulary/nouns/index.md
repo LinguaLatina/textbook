@@ -15,11 +15,11 @@ nav_order: 2
 - arma, armorum *n* (*pl* only): *arms, weapons*
 - aurum, auri *n*: *gold*
 - avis, avis *f*: *bird*
-- beneficium, beneficii *n*: *s*
+- beneficium, beneficii *n*: *a favor, a service*
 - canis, canis *m* or *f*: *dog*
 - caput, capitis *n*: *head*
-- conjugium, conjugii *n*: *marriage*
-- conjunx, conjugis *m* or *f*: *husband, wife*
+- coniugium, coniugii *n*: *marriage*
+- coniunx, coniugis *m* or *f*: *husband, wife*
 - corpus, corporis *n*: *body*
 - deus, dei *m*: *god*
 - dies, diei *m*: *day*
