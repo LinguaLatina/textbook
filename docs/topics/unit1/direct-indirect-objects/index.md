@@ -32,7 +32,7 @@ Some verbs may express actions that also involve a secondary recipient, a person
 
 One verb that makes it easy to see the role of the indirect object, in both English and Latin, is the verb "to give."   (Latin grammarians in antiquity thought so, too: we have borrowed our term from the Latin *dativus casus*, "the case connected with giving.")  In English, we can express the indirect object either by word order or with a preposition such as "to." 
 
-> "Hercules gave him (Philoctetes) his divien arrows." or "Hercules gave his divine arrows to him." 
+> "Hercules gave him (Philoctetes) his divine arrows." or "Hercules gave his divine arrows to him." 
 
 In both sentences "arrows" is the direct object of the verb "gave": the gifts are what is being directly affected by the action of the verb. The indirect object in both sentences is "him" (Philoctetes): as the recipient of the gifts, the action of giving affected Philoctetes in a secondary or indirect way. English expresses that by putting the indirect object before the direct object in the sentence, or with the preposition "to." 
 
