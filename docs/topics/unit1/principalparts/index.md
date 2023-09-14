@@ -54,7 +54,7 @@ Principal parts are listed in order, 1-4. Memorize these the principal parts of 
 - mittō, mittĕre, mīsī, missus - to send
 - sum, esse, fuī, futūrus - to be (**irregular**)
 - veniō, venīre, vēnī, ventus - to come
-- videō, vidēre, vīdī, visus - to see; 
+- videō, vidēre, vīdī, visus - to see
 
 
 ### Looking for patterns
