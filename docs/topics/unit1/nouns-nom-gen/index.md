@@ -41,7 +41,7 @@ Second declension nouns can be masculine or neuter.  For *masculine* nouns of th
 
 | Case | Singular | Plural |
 | --- | --- | --- |
-| Nominative | -us *or* - | -i |
+| Nominative | -us *or* -er | -i |
 | Genitive | -i | -orum |
 
 Compare the forms for these two masculine nouns:
