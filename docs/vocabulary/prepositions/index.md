@@ -8,7 +8,8 @@ nav_order: 0
 
 # Prepositions in Hyginus, *Fabulae*
 
- *+ abl* = the noun object of the preposition will be in the ablative case
+*+ abl* = the noun object of the preposition will be in the ablative case
+ 
 *+ acc* = the noun object of the preposition will be in the accusative case 
 
 - ab *or* ā + *abl*: from, away from; by (personal agent with passive verb)
