@@ -1,12 +1,12 @@
 ---
 layout: page
-title: "Unit 5: some less freqent forms"
+title: "Unit 5: some less frequent forms"
 nav_order: 6
 has_children: true
 ---
 
 
-# Some less freqent forms
+# Some less frequent forms
 
 
 We will begin unit 5 by going over the declension of nouns and adjectives from the first three declensions as well as the pronouns that we learned last semester. We will then move on to a full scale review of the Latin verbal forms that we met last semester. As we review these forms, we will also practice and review different grammatical structures that we saw last semester.
