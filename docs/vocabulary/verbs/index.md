@@ -51,13 +51,13 @@ nav_order: 1
 - libet, libēre, libuit, libitus (*impersonal*): *to be pleasing or agreeable*
 - loco, locare, locavi, locatus: *to place, arrange*
 - mitto, mittĕre, misi, missus: *to send*
-- moneo, monēre, monui, monitus: *to war*
+- moneo, monēre, monui, monitus: *to warn*
 - morior, mori, -, mortuus: *to die*
 - nascor, nasci, -, natus: *to be born*
 - neco, necare, necavi, necatus: *to slay*
 - nego, negare, negavi, negatus: *to say no, refuse*
 - nitor, niti, -, nisus *or* nixus: *to lean on, to strive for*
-- nolo, nolle, nolui, -: *to wish..not, to be unwilling*
+- nolo, nolle, nolui, -: *to wish...not, to be unwilling*
 - nomino, nominare, nominavi, nominatus: *to name, call by name*
 - obicio *or* objicio, obicĕre, objeci, objectus: *to throw before, oppose*
 - occido, occidĕre, occidi, occisus: *strike down, slay*
